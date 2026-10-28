@@ -3,34 +3,34 @@ import React from 'react'
 
 const highlights = [
   {
-    title: 'Exclusive 4 BHK Luxury Villas',
-    description: 'Thoughtfully designed with modern architecture and luxury specifications that redefine high-end villa living.',
-    icon: 'fa-solid fa-house-chimney-window'
+    title: 'Prime Location',
+    description: 'Located at Hennur Road, Bangalore offering quick access to major IT hubs and essential conveniences.',
+    icon: 'fa-solid fa-location-dot'
   },
   {
-    title: 'Developed by Rohan Builders',
-    description: 'Built by one of India\'s most trusted developers, celebrated for design innovation, engineering excellence, and superior build quality.',
-    icon: 'fa-solid fa-award'
+    title: 'Spacious Layout',
+    description: 'Thoughtfully planned 3 & 4 BHK layouts designed to provide maximum space, comfort, and natural light.',
+    icon: 'fa-solid fa-arrows-up-down'
   },
   {
-    title: 'Heart of Hennur Road, North Bangalore',
-    description: 'Prime strategic location with seamless connectivity to Manyata Tech Park, Outer Ring Road, and Kempegowda International Airport.',
-    icon: 'fa-solid fa-location-crosshairs'
+    title: 'Sustainable Living',
+    description: 'Crafted with eco-friendly planning and green features to support a healthier, future-ready lifestyle.',
+    icon: 'fa-brands fa-canadian-maple-leaf'
   },
   {
-    title: '20+ Modern Lifestyle Amenities',
-    description: 'Featuring a well-equipped clubhouse, gym, yoga spaces, swimming pool, pet park, multipurpose hall, kids play area, and sports courts.',
-    icon: 'fa-solid fa-champagne-glasses'
+    title: 'Trusted Builder',
+    description: 'Developed by Rohan Builders, one of India’s most reputed builders known for quality and timely delivery.',
+    icon: 'fa-solid fa-archway'
   },
   {
-    title: 'Peaceful & Serene Living',
-    description: 'Exclusively planned private villa enclave offering tranquil, peaceful surroundings, private outdoor spaces, and utmost privacy.',
-    icon: 'fa-solid fa-tree'
+    title: 'Modern Amenities',
+    description: 'Equipped with upcoming contemporary amenities to enhance everyday living and recreational comfort.',
+    icon: 'fa-solid fa-person-swimming'
   },
   {
-    title: 'Exclusive Pre-Launch Opportunity',
-    description: 'Unlock exclusive launch benefits, priority villa selection, and early-bird advantages for registered homebuyers.',
-    icon: 'fa-solid fa-star'
+    title: 'Private Gated Community',
+    description: 'An exclusive low-density enclave featuring 24/7 multi-tier security, lush open greens, and unmatched privacy.',
+    icon: 'fa-solid fa-shield-halved'
   },
 ]
 
