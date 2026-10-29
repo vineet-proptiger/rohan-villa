@@ -14,7 +14,7 @@ const faqData = [
     question: 'What is the starting price of Rohan Villa Hennur?',
     answer: (
       <>
-        The starting price is currently <strong className="font-semibold text-[#111111]">Price Pending</strong>. Exclusive pre-launch benefits and special early-bird offers for 4 BHK luxury villas are available upon enquiry for priority registrations.
+        The starting price is <strong className="font-semibold text-[#111111]">₹ 4.5 Cr* Onwards</strong>. Exclusive pre-launch benefits and special early-bird offers for 4 BHK luxury villas are available upon enquiry for priority registrations.
       </>
     ),
   },

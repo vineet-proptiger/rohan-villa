@@ -5,7 +5,7 @@ const pricingData = [
   {
     type: '4 BHK Luxury Villas',
     area: 'On Request',
-    price: 'Price Pending',
+    price: '₹ 4.5 Cr* Onwards',
     desc: 'Expansive 4 BHK luxury villas featuring grand living-dining spaces, private terrace, master suites, and top-notch amenities.',
   },
 ]

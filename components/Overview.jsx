@@ -43,7 +43,7 @@ const Overview = ({ setIsOpen }) => {
                     <strong className="text-[#111111]">Rohan Villa Hennur Road</strong> is a new luxurious villas project developed by <strong className="text-[#111111]">Rohan Builders</strong>. The project is located in the heart of Hennur Road, North Bangalore.
                   </p>
                   <p className="m-0">
-                    <strong className="text-[#111111]">Rohan Villa Hennur Road</strong> offers exclusive 3 & 4 BHK luxurious villas, which is design with modern architecture and top-notch amenities that offers modern, peaceful and serene living. Rohan Villa Hennur Road is a newest masterpiece villa project that redefines luxury living.
+                    <strong className="text-[#111111]">Rohan Villa Hennur Road</strong> offers exclusive 4 BHK luxurious villas, which is design with modern architecture and top-notch amenities that offers modern, peaceful and serene living. Rohan Villa Hennur Road is a newest masterpiece villa project that redefines luxury living.
                   </p>
                   <p className="m-0">
                     The project offers 20+ modern amenities that include a well-equipped clubhouse, gym, yoga spaces, swimming pool, pet park, multipurpose hall, kids play area, jogging track, tennis court, 24/7 security with CCTV surveillance and many more.

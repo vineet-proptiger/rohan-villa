@@ -69,7 +69,7 @@ const Navbar = ({ setIsOpen, onPrefetchModal }) => {
             <img
               src={logoImages.main}
               alt="Rohan Villa Hennur"
-              className="h-[32px] sm:h-[36px] md:h-[42px] lg:h-[46px] xl:h-[50px] w-auto object-contain transition-all duration-300"
+              className="h-[22px] sm:h-[24px] md:h-[22px] lg:h-[24px] xl:h-[26px] max-w-[210px] sm:max-w-[230px] md:max-w-[240px] lg:max-w-[270px] w-auto object-contain transition-all duration-300"
             />
           </a>
 

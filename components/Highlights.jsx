@@ -9,7 +9,7 @@ const highlights = [
   },
   {
     title: 'Spacious Layout',
-    description: 'Thoughtfully planned 3 & 4 BHK layouts designed to provide maximum space, comfort, and natural light.',
+    description: 'Thoughtfully planned 4 BHK luxury layouts designed to provide maximum space, comfort, and natural light.',
     icon: 'fa-solid fa-arrows-up-down'
   },
   {
