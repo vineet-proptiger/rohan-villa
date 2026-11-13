@@ -8,6 +8,10 @@
    THEME VARIABLES — Rohan Villaments Hennur
    ═══════════════════════════════════════════════════════════════ */
 :root {
+  --font-poppins: 'Poppins';
+  --font-sans: 'Open Sans';
+  --font-jost: 'Montserrat';
+
   /* ── Rohan Villaments Hennur — Palette (#111111 + #8B6A34 + Warm Cream #F9F8F3) ── */
   --color-gold: #8B6A34;
   --color-gold-light: #A68245;
