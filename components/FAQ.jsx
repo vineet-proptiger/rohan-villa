@@ -3,28 +3,28 @@ import React, { useState } from 'react'
 
 const faqData = [
   {
-    question: 'What configurations are available at Rohan Villa Hennur?',
+    question: 'What configurations are available at Rohan Villaments Hennur?',
     answer: (
       <>
-        Rohan Villa Hennur offers exclusive and spacious <strong className="font-semibold text-[#111111]">4 BHK luxurious villas</strong> designed with modern architecture and top-notch amenities that offer modern, peaceful and serene living.
+        Rohan Villaments Hennur offers exclusive and spacious <strong className="font-semibold text-[#111111]">4 BHK luxurious Villaments</strong> designed with modern architecture and top-notch amenities that offer modern, peaceful and serene living.
       </>
     ),
   },
   {
-    question: 'What is the starting price of Rohan Villa Hennur?',
+    question: 'What is the starting price of Rohan Villaments Hennur?',
     answer: (
       <>
-        The starting price is <strong className="font-semibold text-[#111111]">₹ 4.5 Cr* Onwards</strong>. Exclusive pre-launch benefits and special early-bird offers for 4 BHK luxury villas are available upon enquiry for priority registrations.
+        The starting price is <strong className="font-semibold text-[#111111]">₹ 4.5 Cr* Onwards</strong>. Exclusive pre-launch benefits and special early-bird offers for 4 BHK luxury Villaments are available upon enquiry for priority registrations.
       </>
     ),
   },
   {
-    question: 'Who is the developer of Rohan Villa Hennur?',
+    question: 'Who is the developer of Rohan Villaments Hennur?',
     answer:
-      'Rohan Villa Hennur Road is developed by Rohan Builders, one of India’s most reputed real estate builders renowned for architectural innovation, superior engineering standards, and quality living spaces.',
+      'Rohan Villaments Hennur Road is developed by Rohan Builders, one of India’s most reputed real estate builders renowned for architectural innovation, superior engineering standards, and quality living spaces.',
   },
   {
-    question: 'Where exactly is Rohan Villa located?',
+    question: 'Where exactly is Rohan Villaments located?',
     answer: (
       <>
         The project is ideally situated in the heart of <strong className="font-semibold text-[#111111]">Hennur Road, North Bangalore</strong> (Horamavu Agara Road area), offering seamless connectivity to Manyata Tech Park, Outer Ring Road, and Kempegowda International Airport.
@@ -32,7 +32,7 @@ const faqData = [
     ),
   },
   {
-    question: 'What amenities are provided at Rohan Villa Hennur?',
+    question: 'What amenities are provided at Rohan Villaments Hennur?',
     answer:
       'The project offers 20+ modern amenities including a well-equipped clubhouse, gym, yoga spaces, swimming pool, pet park, multipurpose hall, kids play area, jogging track, tennis court, and 24/7 security with CCTV surveillance.',
   },

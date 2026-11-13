@@ -16,7 +16,7 @@ const Overview = ({ setIsOpen }) => {
             <div className="relative w-full max-w-[500px] h-[340px] sm:h-[390px] md:h-[430px] lg:h-[440px] rounded-[24px] overflow-hidden shadow-[0_12px_40px_rgba(0,0,0,0.08)]">
                <Image 
                  src={overviewImage} 
-                 alt="About Rohan Villa Hennur" 
+                 alt="About Rohan Villaments Hennur" 
                  fill 
                  className="object-cover" 
                  sizes="(max-width: 1024px) 100vw, 50vw" 
@@ -40,10 +40,10 @@ const Overview = ({ setIsOpen }) => {
               <div className="mb-6">
                 <div className="text-[#4A5568] text-[15px] leading-[1.75] text-left flex flex-col gap-3">
                   <p className="m-0">
-                    <strong className="text-[#111111]">Rohan Villa Hennur Road</strong> is a new luxurious villas project developed by <strong className="text-[#111111]">Rohan Builders</strong>. The project is located in the heart of Hennur Road, North Bangalore.
+                    <strong className="text-[#111111]">Rohan Villaments Hennur Road</strong> is a new luxurious Villaments project developed by <strong className="text-[#111111]">Rohan Builders</strong>. The project is located in the heart of Hennur Road, North Bangalore.
                   </p>
                   <p className="m-0">
-                    <strong className="text-[#111111]">Rohan Villa Hennur Road</strong> offers exclusive 4 BHK luxurious villas, which is design with modern architecture and top-notch amenities that offers modern, peaceful and serene living. Rohan Villa Hennur Road is a newest masterpiece villa project that redefines luxury living.
+                    <strong className="text-[#111111]">Rohan Villaments Hennur Road</strong> offers exclusive 4 BHK luxurious Villaments, which is design with modern architecture and top-notch amenities that offers modern, peaceful and serene living. Rohan Villaments Hennur Road is a newest masterpiece Villaments project that redefines luxury living.
                   </p>
                   <p className="m-0">
                     The project offers 20+ modern amenities that include a well-equipped clubhouse, gym, yoga spaces, swimming pool, pet park, multipurpose hall, kids play area, jogging track, tennis court, 24/7 security with CCTV surveillance and many more.
@@ -51,7 +51,7 @@ const Overview = ({ setIsOpen }) => {
                   {isExpanded && (
                     <div className="flex flex-col gap-3">
                       <p className="m-0">
-                        <strong className="text-[#111111]">Rohan Villa Hennur Road</strong> is located in Hennur Road, North Bangalore that enjoys excellent connectivity to key areas like Manyata Tech Park, Kempegowda International Airport and Outer Ring Road. The project has easy access to major IT hubs, schools, hospitals, shopping malls and entertainment hubs.
+                        <strong className="text-[#111111]">Rohan Villaments Hennur Road</strong> is located in Hennur Road, North Bangalore that enjoys excellent connectivity to key areas like Manyata Tech Park, Kempegowda International Airport and Outer Ring Road. The project has easy access to major IT hubs, schools, hospitals, shopping malls and entertainment hubs.
                       </p>
                     </div>
                   )}

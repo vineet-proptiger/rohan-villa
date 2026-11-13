@@ -12,7 +12,7 @@ const Footer = ({ setIsOpen }) => (
         data-aos="fade-up"
         className="text-white font-extrabold text-[22px] sm:text-[26px] md:text-[30px] leading-tight mb-3"
       >
-        Book Your Villa at Special Pre-Launch Prices
+        Book Your Villaments at Special Pre-Launch Prices
       </h2>
 
       {/* ── SECTION 8: Subheadline ── */}
@@ -20,7 +20,7 @@ const Footer = ({ setIsOpen }) => (
         data-aos="fade-up" data-aos-delay="50"
         className="text-[#d1d5db] font-medium text-[14px] sm:text-[16px] md:text-[17px] max-w-3xl leading-relaxed mb-8"
       >
-        Exclusive 4 BHK Luxury Villas | Hennur Road, North Bangalore | Pre-Launch
+        Exclusive 4 BHK Luxury Villaments | Hennur Road, North Bangalore | Pre-Launch
       </p>
 
       {/* ── SECTION 8: CTA Buttons ── */}

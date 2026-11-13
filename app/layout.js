@@ -26,23 +26,23 @@ const montserrat = Montserrat({
 })
 
 export const metadata = {
-  metadataBase: new URL(SITE_URL || 'https://rohanvillahennurroad.co.in'),
-  title: 'Rohan Villa Hennur | 4 BHK Luxury Villas Hennur Road Bangalore',
-  description: 'Rohan Villa Hennur Road by Rohan Builders offers exclusive 4 BHK luxury villas in the heart of Hennur Road, North Bangalore with 20+ modern lifestyle amenities. Pre-Launch.',
+  metadataBase: new URL(SITE_URL || 'https://rohanVillamentshennurroad.co.in'),
+  title: 'Rohan Villaments Hennur | 4 BHK Luxury Villaments Hennur Road Bangalore',
+  description: 'Rohan Villaments Hennur Road by Rohan Builders offers exclusive 4 BHK luxury Villaments in the heart of Hennur Road, North Bangalore with 20+ modern lifestyle amenities. Pre-Launch.',
   alternates: {
     canonical: '/',
   },
   openGraph: {
-    title: 'Rohan Villa Hennur | 4 BHK Luxury Villas Hennur Road Bangalore',
-    description: 'Rohan Villa Hennur Road by Rohan Builders offers exclusive 4 BHK luxury villas in the heart of Hennur Road, North Bangalore with 20+ modern lifestyle amenities. Pre-Launch.',
-    url: SITE_URL || 'https://rohanvillahennurroad.co.in',
-    siteName: 'Rohan Villa Hennur',
+    title: 'Rohan Villaments Hennur | 4 BHK Luxury Villaments Hennur Road Bangalore',
+    description: 'Rohan Villaments Hennur Road by Rohan Builders offers exclusive 4 BHK luxury Villaments in the heart of Hennur Road, North Bangalore with 20+ modern lifestyle amenities. Pre-Launch.',
+    url: SITE_URL || 'https://rohanVillamentshennurroad.co.in',
+    siteName: 'Rohan Villaments Hennur',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Rohan Villa Hennur | 4 BHK Luxury Villas Hennur Road Bangalore',
-    description: 'Rohan Villa Hennur Road by Rohan Builders offers exclusive 4 BHK luxury villas in the heart of Hennur Road, North Bangalore with 20+ modern lifestyle amenities. Pre-Launch.',
+    title: 'Rohan Villaments Hennur | 4 BHK Luxury Villaments Hennur Road Bangalore',
+    description: 'Rohan Villaments Hennur Road by Rohan Builders offers exclusive 4 BHK luxury Villaments in the heart of Hennur Road, North Bangalore with 20+ modern lifestyle amenities. Pre-Launch.',
   },
   icons: {
     icon: '/favicon/favicon.png',

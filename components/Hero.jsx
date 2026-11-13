@@ -96,7 +96,7 @@ const Hero = ({ setIsOpen }) => {
 
                 {/* Main Headline */}
                 <h1 className="text-[#111111] font-black tracking-tight leading-[1.18] text-[24px] xs:text-[28px] sm:text-[32px] md:text-[36px] m-0">
-                  Rohan Villa Hennur
+                  Rohan Villaments Hennur
                 </h1>
 
                 {/* Subheadline (Location) */}
@@ -209,7 +209,7 @@ const Hero = ({ setIsOpen }) => {
                 </div>
 
                 {/* LeadForm */}
-                <LeadForm formName="Rohan Villa Hennur Form" btnText="Submit" />
+                <LeadForm formName="Rohan Villaments Hennur Form" btnText="Submit" />
 
                 {/* ── 3 CTA BUTTONS BAR ── */}
                 <div className="mt-3.5 pt-3.5 border-t border-gray-100">

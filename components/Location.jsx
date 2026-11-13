@@ -109,7 +109,7 @@ const Location = () => {
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="strict-origin-when-cross-origin"
-              title="Rohan Villa Hennur, Bangalore Location Map"
+              title="Rohan Villaments Hennur, Bangalore Location Map"
               className="w-full h-full block flex-1"
             />
           </div>

@@ -125,10 +125,10 @@ const ContactCTA = ({ setIsOpen }) => {
             LIMITED TIME LAUNCH OPPORTUNITY
           </span>
           <h2 className="text-[#111111] text-[22px] sm:text-[26px] md:text-[30px] font-extrabold m-0 leading-tight">
-            Book Your Villa at Special Pre-Launch Prices
+            Book Your Villaments at Special Pre-Launch Prices
           </h2>
           <p className="text-[#4b5563] text-[14px] sm:text-[16px] font-medium max-w-3xl mx-auto mt-3 leading-relaxed">
-            Exclusive 4 BHK Luxury Villas | Hennur Road, North Bangalore | Pre-Launch
+            Exclusive 4 BHK Luxury Villaments | Hennur Road, North Bangalore | Pre-Launch
           </p>
 
           {/* CTA Buttons row */}

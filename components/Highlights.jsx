@@ -45,7 +45,7 @@ const Highlights = ({ setIsOpen }) => {
             PROJECT HIGHLIGHTS
           </span>
           <h2 className="text-[#111111] text-[22px] sm:text-[26px] md:text-[30px] font-extrabold m-0 leading-tight md:whitespace-nowrap">
-            What Makes Rohan Villa Hennur Stand Apart
+            What Makes Rohan Villaments Hennur Stand Apart
           </h2>
         </div>
 

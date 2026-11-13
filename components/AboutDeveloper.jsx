@@ -247,7 +247,7 @@ const AboutDeveloper = ({ setIsOpen }) => (
                 Rohan Builders is a premier real estate developer in India known for architectural innovation, superior engineering, and customer trust. With decades of excellence, Rohan Builders has delivered numerous iconic residential and commercial landmarks across Bangalore, Pune, and other key metros.
               </p>
               <p className='text-justify' style={{ color: '#555', fontFamily: F_SANS, lineHeight: 1.8, fontSize: '14px', margin: '0 0 20px' }}>
-                With Rohan Villa Hennur Road, Rohan Builders brings an exclusive collection of luxury 4 BHK villas designed with modern architecture and 20+ top-notch amenities, offering residents a peaceful, private, and serene living experience in North Bangalore.
+                With Rohan Villaments Hennur Road, Rohan Builders brings an exclusive collection of luxury 4 BHK Villaments designed with modern architecture and 20+ top-notch amenities, offering residents a peaceful, private, and serene living experience in North Bangalore.
               </p>
             </div>
 
